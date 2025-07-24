@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Class 5 to 12 Notes</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #4CAF50;
+      color: white;
+      padding: 15px 20px;
+      text-align: center;
+      font-size: 24px;
+    }
+    .container {
+      padding: 20px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+    }
+    .card {
+      background: white;
+      width: 250px;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      padding: 15px;
+      text-align: center;
+    }
+    .card h2 {
+      color: #333;
+    }
+    .card a {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 10px 15px;
+      background-color: #4CAF50;
+      color: white;
+      text-decoration: none;
+      border-radius: 4px;
+      transition: background 0.3s;
+    }
+    .card a:hover {
+      background-color: #45a049;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  📚 Free Class Notes - From Class 5 to 12
+</header>
+
+<div class="container">
+  <!-- Cards for each class -->
+  <div class="card">
+    <h2>Class 5</h2>
+    <a href="class5.html">View Notes</a>
+  </div>
+
+  <div class="card">
+    <h2>Class 6</h2>
+    <a href="class6.html">View Notes</a>
+  </div>
+
+  <div class="card">
+    <h2>Class 7</h2>
+    <a href="class7.html">View Notes</a>
+  </div>
+
+  <div class="card">
+    <h2>Class 8</h2>
+    <a href="class8.html">View Notes</a>
+  </div>
+
+  <div class="card">
+    <h2>Class 9</h2>
+    <a href="class9.html">View Notes</a>
+  </div>
+
+  <div class="card">
+    <h2>Class 10</h2>
+    <a href="class10.html">View Notes</a>
+  </div>
+
+  <div class="card">
+    <h2>Class 11</h2>
+    <a href="class11.html">View Notes</a>
+  </div>
+
+  <div class="card">
+    <h2>Class 12</h2>
+    <a href="class12.html">View Notes</a>
+  </div>
+</div>
+
+</body>
+</html>
