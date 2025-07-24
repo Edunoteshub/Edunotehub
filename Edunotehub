@@ -102,3 +102,33 @@
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Class 10 Notes</title>
+  <style>
+    body { font-family: Arial; background: #f9f9f9; padding: 20px; }
+    h1 { color: #333; }
+    ul { list-style: none; padding: 0; }
+    li {
+      background: white;
+      margin: 10px 0;
+      padding: 15px;
+      border-radius: 5px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    a { color: #4CAF50; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <h1>Class 10 - All Subjects Notes</h1>
+  <ul>
+    <li><a href="#">Science Notes</a></li>
+    <li><a href="#">Maths Notes</a></li>
+    <li><a href="#">Social Science Notes</a></li>
+    <li><a href="#">English Notes</a></li>
+    <li><a href="#">Hindi Notes</a></li>
+  </ul>
+</body>
+</html>
